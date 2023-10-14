@@ -3,13 +3,13 @@ Anil Raj Rimal - Personal Portfolio
 Welcome to the repository for Anil Raj Rimal's personal portfolio website. This repository contains the HTML and CSS code that powers Anil's personal webpage, providing a platform for sharing his skills, contact information, and more.
 
 Table of Contents
-Description
-Project Structure
-Usage
-Customization
-Contributing
-License
-Description
+-Description
+-Project Structure
+-Usage
+-Customization
+-Contributing
+-License
+-Description
 
 HTML Code (index.html)
 The index.html file serves as the main webpage for Anil Raj Rimal's personal portfolio. It includes the following elements:
