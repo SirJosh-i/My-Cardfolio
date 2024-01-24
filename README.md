@@ -10,6 +10,7 @@ Welcome to the repository for Anil Raj Rimal's personal portfolio website. This 
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
+- [Demo](#demo)
 
 ## Description
 
@@ -39,12 +40,12 @@ The project is organized as follows:
 
 ## Usage
 
-To use this code for your own personal portfolio:
+To use this code for your portfolio:
 
 1. Save the HTML code to a file named `index.html`.
-2. Create a folder named "css" and save the CSS code in a file named `style.css` inside this folder.
-3. Customize the HTML content with your own information, including your name, job title, and links to your social media profiles.
-4. Replace the images and files in the "assets" folder with your own profile picture and other assets.
+2. Create a folder named "CSS" and save the CSS code in a file named `style.css` inside this folder.
+3. Customize the HTML content with your information, including your name, job title, and links to your social media profiles.
+4. Replace the images and files in the "assets" folder with your profile picture and other assets.
 5. Host the HTML and CSS files on a web server or a web hosting platform.
 
 ## Customization
@@ -57,4 +58,10 @@ If you have any suggestions or improvements for this portfolio template, feel fr
 
 ## License
 
-This code is open-source and available under the MIT License. You are free to use and modify it for your own portfolio.
+This code is open-source and available under the MIT License. You are free to use and modify it for your portfolio.
+
+## Demo
+
+Check out this live demo to see the project in action!
+
+[Demo Link](https://anilrajrimal1.github.io/My-Cardfolio/)
