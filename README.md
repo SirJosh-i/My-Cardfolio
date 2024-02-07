@@ -16,7 +16,7 @@ Welcome to the repository for Anil Raj Rimal's personal portfolio website. This 
 
 ### HTML Code (`index.html`)
 
-The `index.html` file serves as the main webpage for Anil Raj Rimal's personal portfolio. It includes the following elements:
+The `index.html` file serves as the main webpage for Anil Raj Rimal's portfolio. It includes the following elements:
 
 - Meta information, including the page title, description, keywords, and author.
 - Links to external resources such as a custom CSS file and a favicon.
@@ -36,7 +36,7 @@ The project is organized as follows:
 - `index.html`: The main HTML file for the portfolio page.
 - `css/style.css`: The CSS file that provides styling for the HTML content.
 - `assets/`: This folder contains various assets used in the portfolio, such as images and the favicon.
-- `css/`: This folder contains the CSS file for styling the HTML content.
+- `CSS/`: This folder contains the CSS file for styling the HTML content.
 
 ## Usage
 
